@@ -1,0 +1,76 @@
+.top-container{
+    padding:50px;
+    margin: 0px;
+    background-color: #282A36;
+    height: 10vh;
+    width: 190%;
+    
+}
+.top-container-aligh{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: flex-start;
+
+}
+.text{
+    font-size: xx-large;
+    text-align:center ;
+    margin-top: -27px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFCC02;
+
+}
+.user-text{
+    font-size:small;
+    position: relative;
+    right: 74vh;
+    margin-top: 100px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fist-hr{
+    border: 2px solid #FFCC02; 
+    position:absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+    margin-top:15px;
+    
+}
+hr{
+    border: 1px solid white; 
+    position:absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+    margin-top:25px;
+}
+body{
+    background-color:#222222;
+    
+}
+.botton-text{
+    position: relative;
+    right: 87vh;
+    font-size:small;
+    margin-top: 60px;
+    color: white;
+}
+.email{
+    position: relative;
+    right: 95vh;
+    font-size:small;
+    margin-top: 25px;
+    color: white;
+}
+a{
+   position: relative;
+   font-size: small;
+   right: 82vh;
+   top: -50px;
+
+}
+
+
+

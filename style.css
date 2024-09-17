@@ -1,0 +1,112 @@
+body{
+    background-color: #1d1f21;
+    
+}
+table{
+    border-collapse:collapse;
+    width: 1000px;
+    
+    
+}
+th, td{
+    border: 1px solid #ffcc02;
+    padding: 8px;
+    text-align: center;
+    
+}
+.container{
+    color: #ffcc02;
+    text-align: center;
+}
+.corNome{
+    color: whitesmoke;
+}
+.tabela{
+    justify-content: center;
+    text-align: center;
+    background-color: #282a36;
+    align-content: center;
+    margin: 0 auto;
+    padding: 8px;
+    border-radius: 8px;
+    align-items: center;
+    width: 1000px;
+}
+.corTabela{
+    background-color: #44475A;
+    color: #F0FBFA;
+}
+.cabeca{
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    background-color: #44475A;
+    display: flex;
+    flex-direction: column;
+    color: #F0FBFA;
+    height: 200px;
+    border-radius: 10px;
+    text-align: end;
+}
+.cabecario{
+    color: #ffcc02;
+    text-align: center;
+}
+.rodape{
+    background-color: #44475A;
+    color: #F0FBFA;
+    text-align: center;
+    height: 100px;
+    height: 130px;
+    border-radius: 15px;
+    
+    
+}
+.linha{
+    border-color: #ffcc02;
+    background-color: #ffcc02;
+    height: 2px;
+    
+}
+.photo{
+    padding:50px;
+    margin: 0px;
+    background-image: url(https://static-00.iconduck.com/assets.00/user-icon-2048x2048-ihoxz4vq.png);
+    background-size: cover;
+    background-position: center;
+    height: 10vh;
+    width: 90px;
+    border-radius: 50%;
+}
+.photo-aligh{
+    display: flex;
+    width: 100%;
+    align-items: flex-end;
+    transform: translatey(-210px);
+    margin-left: 200px;
+
+}
+.text-perfil{
+    color: white;
+    text-align: center;
+    margin-top: -400px;
+}
+.botao{
+    background-color: #FFD700; 
+    color: #333;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius:5px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.alinhamento-botao{
+    display: flex;
+    justify-content: center;
+    transform: translatey(-290px);
+}
